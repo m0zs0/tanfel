@@ -30,8 +30,8 @@ Az iskolában a heti összóraszám: 1016
 Egy tanár neve= Albatrosz Aladin
 A tanár heti óraszáma: 24
 6. feladat
-Osztály= 10.b
-Tantárgy= kemia
+Osztály= 9.a
+Tantárgy= matematika
 Csoportbontásban tanulják.
 7. feladat
 Az iskolában 49 tanár tanít.
